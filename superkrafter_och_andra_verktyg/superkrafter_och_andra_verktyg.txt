@@ -1,0 +1,348 @@
+Du har säkert också träffat dem: Människorna med
+superkrafter.
+
+[ Bild på människor med superkrafter ]
+
+Till exempel Anna, som skrev en egen multitrådad
+eventbaserad distribuerad databas på några kvällar
+häromveckan.  Eller Bruno, som kan hitta de där snåriga
+timingbaserade buggarna i produktion och fixa dem på några
+timmar.
+
+Och du har säkert tänkt att: "Åh, jag bara var som dem, om
+jag bara kunde...".
+
+Du har kanske också lagt märke till de här människorna:
+
+Cecilia, som alltid hittar den superenkla lösningen på
+kundens problem som gör att Annas häftiga databas faktiskt
+inte behövs.
+
+Eller David, som är polare med chefen och några av säljarna
+och någon på driften och kan snacka sig till en portöppning
+i brandväggen eller ett nytt konto i produktionsmiljön på 10
+minuter när andra måste vänta i veckor på en
+pappersblankettsbeställning.
+
+Kanske har du, som jag, till och med funderat på vad du gör
+i mjukvarubranschen överhuvudtaget: De här människorna
+verkar ju kunna ordna allt på egen hand.
+
+Troligen har du, som jag, till och från jobbat lite
+förtvivlat på försöka akvirera de här superkrafterna. Helst
+alla samtidigt.
+
+Jag slår vad om att det gick sådär. Du kanske startade ett
+eget hobbyprojekt som också blev ganska häftigt. Och du
+lärde dig säkert massor av det. Men ändå blev du inte en sån
+superhacker som Anna. Och fast du lyckades överbrygga din
+blyghet och lärde känna fler människor i organisationen,
+funkar det inte lika självklart för dig att hacka dig genom
+organisationen som David kan.
+
+Vet du varför det gick sådär? Jo, därför att du inte ÄR
+Anna, Bruno, Cecilia eller David. Missförstå mig inte: Jag
+menar inte att man ska sluta försöka bli bättre på saker och
+ting. Det är oansvarigt att inte träna. Och livsfarligt att
+tro att man inte kan lära sig nya färdigheter. Men det är
+också oansvarigt att inte känna sig själv och veta vad man
+har för material att jobba med.
+
+Min poäng är: Du är du och dina superkrafter är andra
+superkrafter än Annas, Brunos, Cecilias och Davids. Och tur
+är väl det, för när du jobbar i ett team med Anna, Bruno,
+Cecilia och David så är det ju ärligt talat inte till någon
+större nytta om du OCKSÅ är jätteduktig på felsökning. Eller
+OCKSÅ kan hitta enkla lösningar. För det kan ju redan Bruno
+och Cecilia. Men jag slår vad om att du kan något annat som
+ingen av Anna, Bruno, Cecilia och David kan, något som de
+önskade att de också kunde lika bra som du. Det är alltså
+DINA superkrafter som vi ska prata om nu.
+
+---
+
+Så vilka är de då, dina superkrafter? Inte vet jag!  Jag är ju bara en
+enkel javautvecklingskonsult. Men det finns sätt att ta reda på det.
+
+1) Lägg märke till dig själv. Vad gör du när du mår bra och
+känner dig kompetent? Vad håller du på med när andra
+människor verkar vilja hänga på det du gör?
+
+2) Lägg märke till vad folk säger om dig. Jag gissar att du
+får feedback ibland. Om du är en sån som genast slår bort
+allt beröm och tänker att "Äsch, det sa hen säkert bara för
+att vara snäll..." - sluta genast med det. LYSSNA på vad
+folk säger i stället. Ibland är det något ord som
+återkommer, någon stämning. Kanske något udda som du först
+undrar om det verkligen var en komplimang eller inte. Där
+kan du hitta en superkraft.
+
+3) Lägg märke till andra och deras superkrafter. Många
+krafter är inte helt uppenbara. Någon av dem kanske är din?
+
+Här är några jag sett i verkliga livet.
+
+- Superkraften att ha de mest effektiva vanorna och en
+  verktygslåda full av mikrotekniker.
+
+- Superkraften att reflexmässigt ifrågasätta ALLT.
+
+- Superkraften att kunna multitaska.
+
+- Superkraften att kunna koncentrera sig på en uppgift i ett
+  öppet kontorslandskap
+
+- Superkraften att kunna glädja sig åt andras framgångar
+  utan bitterhet.
+
+- Superkraften att alltid vara snäll. Snälla och kloka
+  människor bygger fantastiska team.
+
+- Superkraften att se att kejsaren är naken och våga peka.
+  
+- Superkraften att vara en sjukt bra mentor. Sjukt bra
+  mentorer får med tiden hängivna lärljungar.
+
+- Superkraften att vara snygg. Tyvärr hjälper det.
+
+- Superkraften att vara rolig. Ett gott skratt smörjer öven
+  de tuffaste diskussionerna.
+
+- Superkraften att aldrig bli arg. Man tjänar rätt mycket på
+  att inte hamna i onödiga konflikter.
+
+
+---
+
+Varför ska du veta vilka dina superkrafter är?
+
+Svaret är naturligtvis nyttomaximering. Hur ska du kunna
+utnyttja dina krafter på bästa sätt för din egen och dina
+medmänniskors skull utan att ens veta vilka de är?
+
+Men svaret är också skademinimering: Som Bamse brukar säga:
+"Om man är mycket stark måste man vara mycket snäll också".
+
+Om du till exempel om du har superkraften att vara snygg så
+kommer folk att lyssna på dig lite FÖR mycket. Är man sjukt
+snygg måste man ta lite extra ansvar för vad man säger och
+gör, för folk kommer att ta efter. Detsamma gäller
+egentligen för alla attraktiva egenskaper.
+
+Eller om du är väldigt duktig på något tekniskt område kan
+du skada dig själv och ditt team genom att inte dela med dig
+av din skicklighet. Den som har starka tekniska talanger
+blir lätt chefens favorit och allas hjälte genom att lösa
+alla problem själv. Men på köpet får hen också teamkamrater
+som känner sig nedtryckta och kanske mindre värda. Samt
+supportsamtal på julafton.
+
+Men viktigast är förstås att det är för din egen skull. För
+att du ska slippa känna dig värdelös för att du inte är lika
+duktig på att koda kluriga algoritmer som Anna. Så att du i
+stället kan känna dig stolt och glad för det som är dina
+alldeles egna superkrafer.
+
+----
+
+Vet ni vad det bästa med superkrafter är? Det är att man kan
+låna dem av varandra. När jag behöver en multitrådad
+eventbaserad distribuerad databas behöver jag inte skriva
+den själv. Jag har ju Anna i mitt team. Och när jag behöver
+komma åt en server i produktionsmiljön behöver jag varken
+vänta två veckor eller offra en get. David är ju min
+kompis. Och på samma sätt kan jag låna ut mina egna krafter
+till dem som behöver det.
+
+Tillsammans blir vi ett asgrymt team när vi känner till,
+respekterar och är stolta över våra egna och andras
+superkrafter.
+
+
+TRYGGHET
+
+Jag vill börja med att visa två små filmer som båda har drönare i
+huvudrollerna. Vi börjar med de goda nyheterna:
+
+Den här videon är reklam för ett företag som heter Verity Studios och
+använder autonoma drönare bland annant som liveartister inför
+publik. Vackert tänker ni. Livsfarligt säger jag. Kolla nästa video.
+
+Så, hur vågar man släppa den här typen av maskiner lösa en masse,
+bland oskyldiga artister och publik som kan få en sån där klump i
+huvudet vid minsta NullpointerException?
+
+Jo, genom en enkel slogan som jag föreslår att ni gör till er egen:
+"Safety first". Det första som Verity Studios implementerade med de
+här drönarna var ett fail-safe-läge, som slår till så fort något
+oväntat händer. Inte förrän det var på plats började man försöka få
+dem att dansa.
+
+Det är en smart strategi inte bara för att det inte är så kul för
+publiken att få drönare i huvudet. Utan för att mod är en begränsad
+resurs. Den kraft som du frigör genom att släppa tankarna på
+grundtrygghet kan du använda till innovationer och artistisk djärvhet.
+
+Det samma gäller dig själv, i ditt dagliga värv. Den kraft som du inte
+behöver lägga dig på att oroa dig för om ändringen du just gjorde hade
+sönder något, kan du lägga på innovationer och, tja, kanske inte
+artistisk djärvhet, men kanske något annat som kräver lite mod.
+
+Så hur skapar vi trygghet på en mjukvaruarbetsplats?
+
+Jo, det finns en rad tekniska trygghetsskapare:
+
+
+....
+
+Men det finns något som är minst lika viktigt: "Psykologisk säkerhet"
+
+Det handlar om att alla medlemmarna i ett team vågar ta
+"interpersonella risker". Alltså att man vågar:
+
+ - Göra misstag
+ - Påpeka missförhållande
+ - Säga sin åsikt även när den går emot andras
+ - Visa sig sårbar
+ - Ställa dumma frågor
+ - Ha konstruktiva konflikter
+
+Att ha en miljö tar folk vågar ta den här typen av risker är
+viktigt. Förutom att folk mår bra av att känna sig trygga minskar
+riskerna för att missförhållanden mörkas och växer, samtidigt som
+innovationskraften ökar. Och när Google gjorde en global studie över
+vilka faktorer som bidrog mest till teamproduktivitet kom psykologisk
+säkerhet som klar etta.
+
+Det kanske verkar som självklara saker. Men tänk dig för. När undrade
+du sist vad något betydde på ett möte men frågade inte eftersom alla
+andra verkade förstå? För min del var de i förrgår tror jag.
+
+Så hur skapar man psykologisk säkerhet? Det finns många tricks, men
+termens skapare Amy Edmondson rekommenderar följande:
+
+- Visa din egen sårbarhet och dina egna brister, kunskapshål
+  etc. (särskilt om du betraktas som senior)
+- Var nyfiken och fråga mycket (särskilt om du betraktas som senior)
+- Betrakta arbetet ni gör som ett lärandescenario, inte som något som ska "rullas ut". Mer om detta strax.
+
+När du står på den här trygga plattformen, med laget runt dig som
+supportar dig, då har du verkligen kraft över att använda dina
+superkrafter till att få stjärnorna att dansa. Eller vad du nu gör om
+dagarna.
+
+Men hur får man stjärnor att dansa? Hur skaffar man sig nya superkrafter? Jag tror att svaret finns i del tre:
+
+ÅTERKOPPLING
+
+Återkoppling är en grundteknik. Några av er har kanske läst
+reglerteknik på högskolan och då ser det ut såhär. Detta är ett
+återkopplat system eftersom utsignalen kontinuerligt mäts och jämförs
+med ett önskat värde och regleras mot det önskade av den här maskinen.
+
+Igen, ni som läst reglerteknik kommer kanske ihåg att det är önskvärt
+att att ha en så kort fördröjning som möjligt i återkopplingen. För
+vad riskerar man annars? Just det: instabilitet i systemet! För att?
+Just det: Man kompenserar för saker som redan har hänt och kommer i
+otakt. Typexempel: duschen på inledningsbilden. Man försöker ställa in
+en bra temperatur, men på grund av fördröjning i termostaten och
+längden på duschslangen kan det bli knepigt.
+
+Ungefär det här händer i många processer i vårt dagliga liv i
+mjukvarutvärlden också. Och här är det minst lika viktigt med kort
+fördröjning, men kanske av lite andra skäl.
+
+En av de kortaste återkopplingslooparna som jag brukar jobba med är
+enhetstester. Jag skriver ett test, ser det fallera, ändrar något i
+produktionskoden, ser testet gå igenom. Eller ändrar något i koden och
+ser hela min testsvit gå igenom på några sekunder. Återkopplingstiden
+här är av yttersta vikt, eftersom jag vill göra små justeringar. Är
+det jobbigt att verifiera mina ändringar, eller tar tid, tenderar jag
+att göra många eller större ändringar på en gång. Det är riskfyllt och
+leder till en massa felsökning och buggar. Som att vrida ett helt varv
+i taget på duschvredet och hoppas på att få rätt temperatur när
+vattnet kommer fram om några minuter.
+
+Men det finns ju längre återkopplingsloopar också. Till exempel om det
+är människor med i leken. Det jag gör kanske behöver användningstestas
+av människor. Eller vi kanske har manuella testare som ska utvärdera
+mitt arbete. Där blir återkopplingslooparna kanske aldrig
+sekundsnabba. Men jag minns att för några år sedan kunde jag få
+felrapporter från testavdelningen på saker jag blivit "klar" med för
+flera månader sen. Vilket var irriterande. Jag hade ju gått vidare och
+glömt allt om det där gamla skrotet.
+
+Men om vi kollar på en funktion vi släppt ut till produktion då? Hur
+får vi återkoppling kring den? Fungerar den som tänkt? Förstår folk
+vad den är bra till? Används den? Orsakar den några oförutsedda
+problem? För att få veta det här måste vi ha ett antal mätpunkter
+här. Alla system har inte det. Dessutom är längden på fördröjningen,
+dvs storleken av det vi släpper, återigen av vikt. För att: Om det
+uppstår ett problem så vill vi snabbt kunna rulla tillbaka det senaste
+släppet. Och för att: Om det uppstår ett problem blir det mycket
+enklare att räkna ut varifrån problemet kommer om vi bara har släppt
+EN sak.
+
+Men förutom att det vi släpper inte ska orsaka några problem och
+användas ungefär som tänkt så är det något som vi ofta missar att
+mäta. Har ändringen önskvärd effekt? Tar den oss närmare det avsedda
+målet?
+
+Att vi missar det beror ofta på att vi inte känner till den önskvärda
+effekten. Vi som utvecklingsteam har fått en beställning på en
+funktion och implementerat den. Såhär:
+
+Det teamet gör här är att de använder superkraften "Att ifrågasätta
+ALLT". Den superkraften har inte alla team. Och då får de inte reda på
+det här lilla orsakssambandet som finns i beställarens huvud, nämligen
+att feature X förväntas göra kunderna gladare så att de rekommenderar
+produkten till sina vänner så att produkten får fler kunder vilket
+genererar pengar.
+
+Observera att varje grön pil här i beställarens tankebana faktiskt är
+en hypotes och inte en sanning. De här hypoteserna missar vi ofta att
+validera när vi implementerar något. Och vi missar också en hel del
+chanser att hitta andra vägar att komma till samma mål. Måhända
+stämmer det att X i slutänden kommer att ge gladare kunder. Men kanske
+blir kunderna glada av en billigare funktion Y också? Eller kan det
+vara så att målet att få fler kunder lika gärna kan uppnås genom en
+reklamkampanj?
+
+Men om det här teamet faktiskt kommer överens med beställaren att en
+bra hypotes att pröva är att funktion X kommer att ge fler kunder, då
+gäller det ju att kunna mäta det också. Och helst så snabbt som
+möjligt så att vi inte behöver göra mer än nödvändigt av funktion X om
+det skulle visa sig att hypotesen inte stämmer.
+
+Poängen är:
+- Att återkoppla är viktigt, för annars får vi inte veta något.
+- När man återkopplar är det viktigt att ha mätpunkter
+- När man återkopplar är det viktigt att ha kort fördröjning
+- När man återkopplar är det viktigt att veta vad man reglerar mot
+
+Vet ni vad det roliga med det här är?
+
+När ni jobbar med korta återkopplingsloopar i automatiska tester och
+tar små steg framåt, då skapar ni teknisk trygghet för er själva.
+
+När vi ser att det vi implementerar och rullar ut är experiment för
+att validera eller invalidera hypoteser om att det kan ta oss närmare
+ett mål, då betraktar ni redan arbetet som en lärarandeprocess. En
+grundsten för att uppnå psykologisk säkerhet.
+
+Förutom då att ni troligen har en rätt stor chans att bygga något
+värdefullt. Kanske något fantastiskt.
+
+Nu höll jag på att säga att jag skulle knyta ihop säcken. Eller stänga
+verktygslådan. Men det är ju inte det jag vill. Jag vill öppna
+verktygslådan.
+
+Hitta era superkrafter och använd dem.
+
+Men först: Hitta en trygg grund att stå på.
+
+Men först: Ta reda på vart ni vill. Använd återkoppling för att
+navigera dit.
+
+Sen: Använd era superkrafter för att få stjärnorna att dansa. Eller
+vad ni nu gör om dagarna.
