@@ -1,0 +1,143 @@
+Scen 1.
+
+Tänk dig det följande: Det är din andra vecka på företaget XXX som gör
+en API-tjänst kring Australiens natur. Chefen störtar plötsligt in i
+utvecklarnas kyffe och berättar att kunderna rapporterat en allvarlig
+bugg. Du måste genast rätta den. Okej säger du. Självklart! 
+
+
+Du tittar lite på koden, tror att du förstår ungefär var du borde
+ändra. Problemet är bara att du inte riktigt har klart för dig vad det
+här APIet har för features och vad de kan användas till, så du vet
+inte vad du kan förstöra. Och det finns inga tester. Och alltihop är
+skrivet i JavaScript. Vad gör du?
+
+********************************************************************
+
+Scen 2.
+
+Min bästa sätt att rätta en bugg är nämligen det följande:
+
+1. Jag skriver ett test som påvisar buggens existens.
+2. Jag fixar buggen.
+3. Jag ser till att testet nu går igenom.
+
+Problem när inga tester finnes:
+
+1. Det brukar vara väldigt svårt att skriva första testet på en existerande tjänst.
+2. Jag vet inte om jag förstört något.
+
+*********************************************************************
+
+Scen 3.
+
+Du har ungefär två alternativ. Och förstås någon slags gråskala av
+blandningar emellan dem. Ett är det jag oftast väljer själv i den här
+typen av situationer. Jag gör ändringen, kollar lite löst att de
+features jag vet om verkar funka någorlunda, produktionssätter och
+ber en bön att inget gått sönder.
+
+Men det känns inte riktigt bra. Så jag bestämde mig för att utforska
+ett annat alternativ, och det är det jag vill dela med er idag.
+
+*********************************************************************
+
+Scen 4.
+
+Idén är att så billigt som möjligt skapa en sorts fixtur av tester som
+fångar såpass mycket av beteendet att du törs ändra saker inom ramen
+du byggt.
+
+Då har du ordnat problem 2. Har du täckt hyfsat mycket med dina
+fixturtester så känner du dig också säkrare på att du inte förstört
+något. Inte helt säker förstås, men säkrare än utan.
+
+*********************************************************************
+
+Scen 5.
+
+Men den här typen av fixturtester lämpar sig ofta inte för att testa
+små hörnfall och peka ut subtila buggar. Så problem 1 har du kvar. Det
+fina är att med hjälp av fixturen törs du ändra strukturen på
+tjänstens innandöme så att den kod du vill ändra blir testbar.
+
+*********************************************************************
+
+Scen 6.
+
+Sen skriver du fler tester för den bit av koden du faktiskt vill ändra
+i. Sen är du nästan hemma. Det du vill ändra på skriver du ett
+fallerande test för. Och så ändrar du och kollar så att testerna blir gröna. Profit!
+
+*********************************************************************
+
+Scen 7.
+
+Men hur gör man det här då, rent praktiskt? Jo, typ såhär.
+
+1. Utforska. Leta rätt på tjänstens gränsytor. Var tar den in och ut
+information? REST-endpoints. Databaser. Filer. Andra APIer som den
+hämtar saker ifrån.
+
+Vi kollar exemplet här. Vi hämtar data från det här APIet och här
+verkar det finnas endpoints som ger ut samma data, lite
+ommasserat. Ganska enkelt case. Puh.
+
+Vi ritar upp vår uppfattning om hur det ser ut på en bild. Den blir
+typ såhär.
+
+*********************************************************************
+
+Scen 8.
+
+Nu tar vi fram några verktyg.
+
+Det första är Jest. Hur många har använt det förut? Det är just nu THE
+testverktyg för JS. Såhär ser ett test ut i Jest.
+
+Det andra är nock. Det är ett kul litet verktyg som interceptar dina
+anrop till externa APIer. Väldigt användbart för att skapa stabila
+svar som man kan bygga tester på.
+
+Det tredje är en kul feature som Jest har. Man kan spara snapshots av
+ett nuläge att jämföra med senare. Jättepratiskt när man inte riktigt
+har koll på alla detaljer kring vad allt i ett API-svar ska vara, men
+tror att nuläget är någorlunda rätt.
+
+*********************************************************************
+
+Scen 9.
+
+Så vi samplar ett svar från underliggande API, sparar det i en fil och
+låter nock svara med det. Här kan det vara så att det riktiga svaret
+är alldeles för stort. Då kan det vara en bra idé att försöka använda
+ett mindre sampel, för annars går testet för långsamt och eventuella
+fel går inte att tolka.
+
+Sen låter vi jest spara ett snapshot. Och fixturen är klar!
+
+*********************************************************************
+
+Scen 10.
+
+Resten är lätt. Vi drar isär koden lite. Den här biten är det vi vill
+testa egentligen. Det är en bra idé att separera beslutslogik från
+saker som påverkar världen, i den funktionella paradigmen kallade
+"sidoeffekter". Så i stället för att baka ihop hämtningen av data här
+med logiken som knådar om det så bryter vi ut omknådningen. Och då kan
+vi skriva rent funktionella tester för omknådningen. Vips, där blev
+det gjort.
+
+*********************************************************************
+
+Scen 11.
+
+Sen var det ju buggen. Dags att skriva ett fallerande test.
+
+*********************************************************************
+
+Scen 1X.
+
+Men vadnu. Fixturtesterna fallerar ju. Japp, vi har ju ändrat
+beteendet. Vi utforskar lite. Är det rätt sorts fel vi får? Jarå. Då
+gör vi ett nytt snapshot. Klart!
