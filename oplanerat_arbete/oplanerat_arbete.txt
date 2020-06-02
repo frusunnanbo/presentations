@@ -1,3 +1,5 @@
+
+
 Del ett: Oplanerat arbete är det finaste som finns.
 ===================================================
 
@@ -12,15 +14,15 @@ arbetsliv har varit oplanerat arbete. Kanske i ditt också?
 
 Oplanerat arbete är GLÄDJEN i att fixa buggen direkt. Det är den
 DUBBLA glädjen i att kunna bidra till hela företagets flow genom att
-hjälpa din kollega genast i stället för att blockera henom tills ditt
+hjälpa din kollega genast i stället för att låt henom tills ditt
 flow är slut. Och oplanerat arbete är något som uppstår när du inser
 att planen suger, men det finns något bättre. Kanske att användarnas
 beteende ger en hint om vad som är en verkligt bra affärsidé?
 
 Oplanerat arbete är som ett litet barn. När du står vid spisen och ska
 laga köttbullar kommer oplanerat arbete och vill att du ska bygga en
-JÄTTESTOR BÅT av lego i stället. Eller har slagit sig på knät. Och sen
-vill oplanerat arbete ha glass.
+JÄTTESTOR BÅT av lego. Eller så har oplanerat arbete har slagit sig på
+knät. Och sen vill oplanerat arbete ha glass.
 
 Och när du gör som oplanerat arbete vill blir du omedelbart
 belönad. Det är roligt att att bygga en JÄTTESTOR BÅT av lego. Det
@@ -33,20 +35,19 @@ som finns.
 Del två: Vi måste prata om oplanerat arbete.
 ============================================
 
-Men om oplanerat arbete nu är så bra, varför behöver jag prata om det?
+Men vi måste prata om oplanerat arbete. För faktum är att det förstör
+för planerat arbete. 
 
-Jo, för att det förstör för planerat arbete förstås. 
+Oplanerat arbete som dyker upp när vi redan sysslar med något planerat
+orsakar kontextbyte, som skapar ställtid. Det kan också kännas
+stressigt, särskilt om vi har bråttom eller om oplanerade uppgifter
+staplar sig på varandra. Ställtid och stress vill vi undvika.
 
-Varje gång vårt planerade flöde blir avbrutet av något oplanerat
-uppstår det ställtid för att byta kontext, och ibland stress. Ställtid
-och stress är onödigt, så det vill vi undvika.
+Dessutom kan det uppstå svält. Belöningen i att slutföra en liten,
+oplanerad uppgift kommer så mycket fortare än om man tar sig an en
+större, mer långsiktig sak.
 
-Dessutom kan det hända sig att det känns lättare och roligare att ta
-sig an en liten bugg än att sätta igång med den där stora planerade
-uppgiften. Och har man många små buggar blir kanske aldrig det där
-stora viktiga gjort....
-
-Men om oplanerat arbete är så bra, vad ska vi med planerat arbete till?
+Men varför ska vi egentligen planera?
 
 Mitt svar är: För att vi vill ha köttbullar.
 
@@ -57,47 +58,41 @@ exempel. Kännsliga lyssnare får i tysthet översätta till kikärtsbiffar
 eller sojabullar.
 
 Poängen är hursomhelst att allt som är komplicerat nog att kräva mer
-tid än, säg, en pomodoro, alltså 25 minuter, behöver åtminstone lite
-planering för att bli gjort. För att göra köttbullar behöver du t ex
-köpa köttfärs och kanske lök och ströbröd, du behöver blanda smet,
-trilla köttbullar och steka dem. Ska du göra något mer komplicerat
-behöver du ännu mer planering. Somligt är det ledtid på. Somligt måste
-göras efter det som det är ledtid på. Ibland har du en ledtid och en
-deadline.
+än, säg, 25 minuter, behöver åtminstone lite planering för att bli
+gjort. För att göra köttbullar behöver du t ex köpa köttfärs, du
+behöver blanda smet, trilla köttbullar och steka dem.
 
-Vilket för oss in på nästa anledning att planera. Nämligen att
-planering föder planering. Vi är beroende av andra, och andra är
-beroende av vårt arbete. Därför måste vi saxa in oss i deras planer.
+Vi måste också planera på grund av andras planer. Andras arbete blir
+ledtider för oss, och våra deadlines blir grunden till andras
+ledtider. Samexistens med andra kräver planering.
 
 Men det finns också en tredje anledning till att planera. Nämligen
-"känslan av att ha en plan". Vi lever i en värld full av osäkerhet. De
-flesta av oss störs ganska mycket av det. De flesta försök att
-förutsäga eller kontrollera framtiden välkomnas. Bland annat alla
-typer av planer, realistiska eller ej.
+"känslan av att ha en plan". "Känslan av att ha en plan" är ett
+treeggat svärd. Å enda sidan ger den oss en trygg känsla av att vi är
+på väg mot målet och en möjlighet att bocka av stegen på väg dit.
 
-Jag tror att den här känslan av att ha en plan är viktig, på
-riktigt. Den bidrar till en plattform av trygghet. Tryggheten i att
-"det vi bygger precis nu kommer att bidra till att ta oss till målet
-om en vecka, eller en månad, eller ett år". Jag tror att den
-förvissningen är viktig för att vi ska kunna hålla oss i ett
-bygg-mindset. Det vill säga hålla oss koncentrerade på hur vi ska
-bygga vår produkt i stället för att tvivla på om vi kan det eller om
-det är rätt produkt.
+Å andra sidan är den tryggheten alltid mer eller mindre falsk. Vi
+lever i en osäker värld, men vi tycker inte om det. Så vi föredrar att
+hålla fast vid en falsk plan framför att se den äkta osäkerheten i
+vitögat.
 
-Det här trygga icke-tvivlandet på arbetet tror jag är en förutsättning
-för ett tillstånd som hålls högt inom vårt skrå: att "ha flow", vara
-"i zonen" eller, helt enkelt, arbeta fokuserat. En annan förutsättnig
-för att uppnå detta mytomspunna fokus är förstås att inte bli utsatt
-för oplanerade avbrott.
+Å tredje sidan behöver vi förvissningen i att vi är på väg mot
+lösningen på ett relevant problem för att kunna bygga något
+överhuvudtaget. Det är väldigt svårt att vara en konstruktiv
+problemlösare samtidigt som man tvivlar på att man löser rätt problem.
 
 Så här kommer del 2,5: Vi måste prata om flow
 ==============================================
 
+...vilket leder oss in på något som vi absolut måste prata om,
+nämligen "flow", detta mytomspunna fokuserade tillstånd som är något
+av helig ko för många. Flow är också oplanerat arbetes fiende nummer
+ett.
+
 Det här är en typ av bild som dyker upp ganska regelbundet i mina
-sociala flöden. Någon som känner igen sig? Jag gör det i alla
-fall. Den brukar ha en titel i stil med "Avbryt aldrig en
-programmerare". Och de brukar ha många lajks och fast jag känner igen
-mig blir jag lite arg varje gång jag ser dem.
+sociala flöden. Den brukar ha en titel i stil med "Avbryt aldrig en
+programmerare". Och de brukar ha många lajks, men jag blir lite arg
+varje gång jag ser dem.
 
 För för det första är det något självupptaget över hela grejen. Vad är
 det som säger att grejen som du flowar med är så himla viktig jämfört
@@ -108,79 +103,64 @@ fälla. Visst, du kommer snabbt framåt, men hur vet du att det är åt
 rätt håll när du inte tar emot feedback, när du aldrig stannar upp och
 tvivlar på att du verkligen är på en bra väg mot lösningen på ett
 viktigt problem.
+	
+Men framförallt blir jag provocerad av att jag känner igen
+mig. Oplanerade avbrott blåser bort mentala modeller precis sådär fort.
 
-Men framförallt blir jag provocerad av sanningen i det. Att avbrotten
-som jag själv håller högt faktiskt förstör mentala modeller precis
-sådär fort.
+Men sen kom jag på det! Det vi ser i seriestrippen är nämligen inte
+ett varnande exempel på vad som händer om du avbryter en
+programmerare. Det är varnande exempel på vad du kan råka ut för om du
+håller fast i dåliga vanor.
 
-Men häromdagen kom jag på det! Det vi ser i seriestrippen är nämligen
-inte ett varnande exempel på vad som händer om du avbryter en
-programmerare. Det är varnande exempel på vad du kan råka ut för som
-programmerare om du håller fast i dåliga vanor. Här är några saker som
-personen på bilden INTE gör:
-
-- Hen har inte tagit hjälp av en kollega att bolla problemet med
-
-- Hen har inte externaliserat sin mentala modell genom att rita upp
-  den på en whiteboard
-  
-- Hen har inte tagit sig an problemet i små steg
-
-- Hen jobbar inte testdrivet
-
-- Hen har inte skaffat sig ett postitblock att skriva upp stickspår
-  och tankar på
-
-Nej, hen har helt fyllt sitt arbetsminne med sin problemmodell och
-försöker lösa allt genom att tänka riktigt hårt. Det gör henom EXTREMT
-känslig för avbrott förstås.
-
-Så jag ritade en ny strip med ett lyckligt slut. Det här
-programmerarparet har en gemensam, externaliserad modell. De jobbar i
+Så jag ritade en ny strip med ett lyckligt slut. Den här
+programmeraren har tagit hjälp av en kollega. De har skapat en
+gemensam modell och externaliserat den på en whiteboard. De jobbar i
 små steg och dokumenterar sitt arbete med tester. De antecknar
-stickspår på postits och glömmer dem tills vidare. De har flow, men
-när de blir avbrutna... händer liksom ingenting. Och det bästa är att
-de förmodligen har mycket mer plats över för innovativa lösningar i
-sina huvuden än stackaren i originalserien hade.
+stickspår på postits och så att de kan glömma dem tills vidare. De har
+flow, men när de blir avbrutna... händer liksom ingenting. Och det
+bästa är att när de slipper hålla hela modellen i huvudet blir de inte
+bara tåliga mot avbrott, utan de har också mer plats för innovativa
+lösningar.
 
 
 Del tre: Hur får vi köttbullar?
 ===============================
 
-Vi återvänder till huvudämnet: Hur får vi köttbullar? Hur ska vi kunna
-välkomna oplanerat arbete, som oundvikligen kommer att dyka upp, och
-ändå nå våra planerade mål, åtminstone ibland? Hur undviker vi att
-somna med en middag av glass i magen bredvid en JÄTTESTOR BÅT av lego?
+Vi återvänder till huvudämnet: Hur får vi köttbullar? Hur kan vi
+välkomna oplanerat arbete, och ändå nå våra planerade mål, åtminstone
+ibland? Hur undviker vi att somna med en middag av glass i magen
+bredvid en JÄTTESTOR BÅT av lego?
 
-Lösningen är, som vanigt, att inte sluta tänka. Du är nämligen en
-människa och som människa har du ansvar för att fatta medvetna
-beslut. När oplanerat arbete kommer in i ditt köttbullsflow med sitt
-blödande knä, är rätt beslut troligen att släppa stekspaden och
-plåstra om knät. Men när oplanerat arbete vill ha glass 10 minuter
-innan middagen är färdig, kanske rätt beslut är att steka klart
-köttbullarna. Du har ansvar att avgöra vad som är viktigast i varje
-ögonblick.
+Lösningen är, som vanligt, att inte sluta tänka. Som människa är det
+ditt ansvar att fatta medvetna beslut. När oplanerat arbete kommer in
+i ditt köttbullsflow med sitt blödande knä, är rätt beslut troligen
+att släppa stekspaden och plåstra om knät. Men när oplanerat arbete
+vill ha glass 10 minuter innan middagen, kanske rätt beslut är att
+steka klart köttbullarna.
 
-Lösningen är också att inte sluta tänka. När oplanerat arbete har
-påmint dig länge om hur roligt och viktigt det är att bygga en
-JÄTTESTOR BÅT av lego ibland kanske du inser att det är försent för
+Lösningen är också att inte sluta tänka. Att du har en plan betyder
+inte att du kan glömma bort varför du hade den.  När oplanerat arbete
+har påmint dig länge om hur roligt och viktigt det är att bygga en
+JÄTTESTOR BÅT av lego kanske du inser att det är försent för
 köttbullsplanen att gå i land. Men vad var det som var viktigt? Var
 det just köttbullarna, eller var det "en middag som inte är glass"?
 Köttfärslimpa kanske går lika bra. Då kan ni bygga mer på båten medan
 den står i ugnen.
 
-Lösningen är också att inte sluta tänka. När du upplever att du inte
-hinner göra NÅGONTING av ditt planerade arbete på grund av alla
-bränder i produktion kanske det är dags att planera in lite
-förebyggande arbete. Och som vi såg i del 2,5 kan vi planera och jobba
-smart för att minska ställtider när vi blir avbrutna. 
+Men framförallt är lösningen att erkänna att det kommer att hända och
+att du vill att det ska hända. Och därför måste du planera för
+det.
 
-Men framförallt är lösningen att erkänna att oplanerat arbete KOMMER
-att hända, och förmodligen VILL du att det ska hända. Så din plan
-måste ha plats. Lägg in slack i tidsplanen, och dela på arbetet. Om
-det är viktigt att köttbullarna står på bordet klockan 18, kanske du
-får börja klockan 15? Och kanske finns det fler personer som kan ta
-hand om ett sårigt knä medan köttbullarna rullar i pannan?
+- Genom ha slack i din plan. Är det viktigt att köttbullarna står på
+bordet klockan 18? Börja klockan 15!
+
+- Genom använda arbetssätt som att minskar kostnaderna för avbrott,
+  som vi såg i del 2,5.
+
+- Och inte minst, genom att förebygga ovärt oplanerat arbete. T ex
+genom att investera i automatisering för att minska mängden bränder i
+produktion. Så att ni kan fokusera på planerat och oplanerat arbete
+som ger glädje och nytta.
 
 Så gå nu och gör en plan som är öppen för det oplanerade, för
 oplanerat arbete är det finaste som finns.
