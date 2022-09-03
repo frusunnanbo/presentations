@@ -1,87 +1,91 @@
-1) Background:
 
-Polar icecaps are melting. xxx of species are facing extinction. Small islands are sinking into the oceans with the rising sea levels.
 
-Most of us realise by now that this is absolutely true and that we
-need to to something about it. If you're in doubt about the truth of
-these statements or about anything else I'll share with you in the
-next five minutes, you'll find links to all of my sources on the end slide.
+1) I guess you all know about the problem. Our planet is slowly
+heating, causing storms, heat waves, droughts and floods all around
+the world.
 
-I'm not an expert, but I'm engaged and curious I've googled for
-you. So now I'd like to share what I've learnt with you and hope that
-you'll spread the word, because, we really need to do something about stuff.
+2) I suppose you also know that there are some personal lifestyle
+changes that you can do to help stopping climate change. Such as
+flying less, eating less meat, bying less clothes etcetera. And that's
+all fine. Do all that.
 
-2) What's that got to do with DevOps?
+3) However, the problem is bigger than your personal lifestyle. So you
+might ask yourself if there's something bigger you can do? And it
+turns out that, as an IT professional you're part of an industry
+responsible for a lot of carbon emissions.
 
-Most of you've probably heard about personal lifestyle changes you
-could do to help, such as flying less or eating less red meat.
+4) How? Electricity. About two thirds of the electricity we use
+world-wide comes from fossil fuel combustion. The rest renewable and
+nuclear.
 
-But as an IT professional, what can you do? That's the question I've
-asked myself and others for a while now. I'll share some of the
-answers I've found with you, hoping that you'll help implementing them
-in your organizatons, or spreading the word, or just contacting me
-after my 5 minutes on stage if you have more information. I'd love to
-hear from you!
+5) The IT industry is estimated to consume about 10% of the world's
+electricity. It's used to power devices, networks and datacenters, and
+to manufacture our equipment.
 
-3) So what can I do as an IT professional?
+6) Since we're a large and growing electricity consumer, our choices
+on how we power our equipment have a large influence on current and
+future carbon emissons.
 
-My mind jumped immediately to the same kind of lifestyle choices that
-we're recommended to make in our personal life, but extended to the
-workplace. Like not drinking coffee out of paper cups, housing your
-business in energy efficient buildings, avoiding printouts, invest in
-good remote meeting gear to cut down of travelling. Not changing
-computers and phones so often. And all of that's great and should be done.
+7) We're going to zoom into datacenters and how to power them
+sustainably. First of all, we need to shrink this pipe, i.e. we want
+to get as many useful computations as possible per electron.
 
-But can't we do something bigger? Like implementing some really smart
-software that would... help solar power plants of whatever. Well yeah
-I guess, but at least I personnally don't know enough about solar
-power to know how to make an impact with my programming skills.
+8) One way of doing that is to move your services to the public
+cloud. The big cloud providers have a much higher server utilization
+rate than on prem servers.
 
-But there's one "bigger" thing I know that we can actually impact as
-IT professionals.
+9) There are variety of numbers published on how much energy you can save
+by the move, ranging 40 to 90%. But either way, it's a lot.
 
-[ Bild av tårtdiagram med 'climate impact of data centers' ]
+10) So that all good, and a good start, but there's more. Our goal is
+to close this pipe, and to do that we need to be able to get more
+electricity from the green pipe.
 
-This is the carbon emissions from datacenters today. It's xxxx tonnes
-CO2 per year, Y % of the total emissions. Yeah, it's just a small
-piece. But every little helps, and the fact is that this little wedge
-is actually as big as this, much debated wedge: Aviation.
+11) We're going to look into what the three biggest cloud providers do
+to support the transition to renewables. Because they have the power
+to lead the way for our industry.
 
-4) So, datacenters.
+12) Let's start with Amazon. Their datacenters are powered by around
+50% renewables, 50% fossil. They also claim that 5 of their regions
+are carbon neutral.
 
-What makes datacenters so dirty? IT is clean isn't? It doesn't
-manufacture stuff in large factories spewing out greenhouse gases. It
-doesn't transport heavy stuff by plane or car. We'll it does. All
-equipment has to be manufactured and transported somehow, but let's
-look at datacenters.
+13) How come? These regions are not 100% renewably powered, but to
+cover for the fossil part that they consume, Amazon buys the
+'greennes" off some electricity elsewhere by means of Renewable Energy
+Certificates.
 
-They consume electricity, a lot of it. According to a report from
-Greenpeace from 2017, datacenters consume about 7 % of the worlds
-electricity, and that figure is expected to keep rising over the next
-few years.
+14) Buying these kind of certs is a decent but not perfect way of
+offsetting carbon emissions.
 
-But electricity is clean isn't it? Well, that depends on where it
-comes from. ~65 % (3*) of the worlds electricity today is produced by
-burning coal and other fossil fuels.
+15) Microsoft: Like Amazon, they've reached about 50% renewable power
+for their datacenters. All of their datacenters are carbon
+neutral, mostly by the same mechanism as Amazon uses.
 
-So, we have two tools for helping the climate:
+16) Google: Like Microsoft, their business is 100% carbon neutral, but
+they've chosen a more ambitious model. To be fair, Microsoft have done
+some similar deals, but on a much smaller scale.
 
-1) Making those 7% smaller.
-2) Moving them to renewable energy sources.
+17) Their datacenters are connected to the normal power grid where
+they're at, whatever the local energy mix happens to be. But for every
+MWh they consume, they buy electricity AND 'greenness' from a
+renewable power source.
 
-Or both!
+18) Then they resell the electricity to the power grid but keep the
+certs. Why? Because these deals are a better long-term incentive for
+new green investments by the power companies.
 
-5) So, how do we make the 7 % smaller?
+19) Summary: Move your services to the cloud. Choose Google if you
+can, otherwise choose Azure, and if that's not possible choose, a
+carbon neutral region in Amazon.
 
-Probably the easiest move is to stop hosting your own software,
-whatever business you're in. Why? Because the big cloud providers are
-much much better at optimising their energy usage to make as much of
-it as possible go into actual computations and client requests
-i.e. doing useful stuff, rather than go to cooling, heating, lighting
-or idle servers.
+20) Spread the word. Help putting pressure on the cloud providers, to
+speed up effective investment in renewables. There's also a petition
+which you should all sign right now.
 
-Microsoft recently published a report stating that moving services to
-their cloud could save as much as X % in terms of power consumption.
+
+
+
+
 
 84% power reduction (65% server utilization vs 15% + "29% less efficient"**) (1*)
 40 % server utilization on average according to 4* 
@@ -91,43 +95,9 @@ their cloud could save as much as X % in terms of power consumption.
 
 The other big cloud providers, Amazon and Google have presented similar reports ????
 
-6) OK, but what if I'd like those 7% not to be coal then?
-
-That's a more complex issue. Lets say your choice of cloud provider is
-Google, Microsoft and Amazon, because those are the big players right
-now.
-
-How clean are they, and how do their strategies and planned expansions
-impact the CO2 emission levels now and in the future?
-
-The good thing is that they've all committed to be powered by 100%
-renewable energy by some future date. The difficult thing is that they
-have different strategies and plans for reaching that goal, and it's
-hard (avgöra) what is greenwashing and what really makes an impact on
-global CO2 emissions.
 
 
-6) Amazon
-
-According to https://aws.amazon.com/about-aws/sustainability/:
-
-50% renewable energy for 2018
-100% commitment (for when?)
-Several wind and solar projects.
-
-393 g CO2/kWh 2015
-
-Purchases and retires RECs and GoOs to cover non-renewables:
-- US West
-- Frankfurt
-- Canada
-- GovCloud
-- Ireland
-
-7) Google
-
-8) Microsoft
-
+9) Data center usage is projected to increase five times by 2025
 
 1* https://aws.amazon.com/about-aws/sustainability/
 2* https://journal.uptimeinstitute.com/is-pue-actually-going-up/
@@ -138,3 +108,4 @@ Purchases and retires RECs and GoOs to cover non-renewables:
 https://www.infoq.com/podcasts/technologists-initiative-on-climate/
 https://www.goclimateneutral.org/blog/the-carbon-footprint-of-servers/
 https://docs.google.com/document/d/1eCCb3rgqtQxcRwLdTr0P_hCK_drIZrm1Dpb4dlPeG6M/edit
+https://static.googleusercontent.com/media/www.google.com/en/us/green/pdfs/renewable-energy.pdf

@@ -1,0 +1,7 @@
+Since many years a programmer with experience from a wide range of
+languages, environments and domains.
+
+Fascinated by the amount of ideas that seem brilliant but turn out to
+be terrible once implemented in software. Therefore interested in
+tools and techniques that make features reach end users safer and
+faster, so that we can get feedback about them.

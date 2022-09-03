@@ -1,0 +1,48 @@
+First: There's no silver bullet in this talk. And there's nothing new, or
+particularly shiny.
+
+I'll present a techique called Consumer Driven Contract Testing which
+has been around for at least a decade, and a tool called PACT which
+was first written in 2013. So they're pretty old, and they aren't a
+solution to every problem you might have.
+
+So why do I bother to speak about it? Because although contract
+testing is old, many people don't even know it exists and where it
+could be useful. I think it deserves more fame than it has and that
+more people would benefit to have that tool in their toolbox. So I'm
+here to spread the word.
+
+Second: I have to give a huge thank you to this guy. His name is Dan
+Eidmark and he did me a huge favour. The thing is; when I submitted
+this talk in the start of October I had just started working with
+contract tests. So I thought I'd have a lot of real-life experience to
+share with you today. But things turned out in another way. So Dan,
+who has a lot of real-world experience kindly let me interview him and
+borrow some of his knowledge and tips and tricks. So fear not, this
+talk is not just the result of my fantasies of what can be done. They
+lean upon thorough but borrowed experience. Thank you Dan!
+
+
+
+
+
+Once you've gotten this far, you can change the way you design your
+APIs. Instead of building APIs from the provider side, using more or
+less informed guesses of what your clients need, you can start with a
+contract test on the consumer side, then add stuff to your API based
+on actual consumer needs.
+
+Sounds familliar? It's Test Driven Design for your APIs. Why would you
+want to do that? Well because
+- It allows you to design you API based consumer needs, clearly specified as tests.
+- As a by-product of the workflow, you get to keep the tests.
+- The will help you remember to keep your promises
+
+
+So that was my last point. We've covered a lot of ground, so lets repeat:
+
+- We've learnt that it's hard not to break your neighbours when working in microservice systems
+- We've learnt that automated contract tests can help
+- We've learnt that PACT is a tool that helps you generate and distribute interaction specifications
+- We've learnt to stop deploys that would break communication with CI/CD pipelines and a PACT broker
+- We've learnt that driving API changes from the consumer side is a good idea.
